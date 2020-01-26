@@ -3,7 +3,16 @@ guid: c739bd02b84eeac4695e408bdc57f039
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - CarPart1: {instanceID: 0}
+  - CarPart2: {instanceID: 0}
+  - CarPart3: {instanceID: 0}
+  - CarPart4: {instanceID: 0}
+  - CarPart5: {instanceID: 0}
+  - CarPart6: {instanceID: 0}
+  - CarPart7: {instanceID: 0}
+  - CarPart8: {instanceID: 0}
+  - CarPart9: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
