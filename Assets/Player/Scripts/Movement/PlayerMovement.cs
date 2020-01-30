@@ -28,6 +28,8 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
+        Shader.SetGlobalVector("_PlayerPos", transform.position);
+
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
 
