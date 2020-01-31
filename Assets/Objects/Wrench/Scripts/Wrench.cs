@@ -26,7 +26,6 @@ public class Wrench : MonoBehaviour
     	if(Input.GetMouseButtonDown(0))
         {
         	holdingWrench = 1;
-        	Debug.Log("Success");
         }
 
     }

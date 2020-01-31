@@ -15,7 +15,6 @@ public class PickUp : MonoBehaviour
     	{
     	if(isHolding == 0 && HoldTimer > 2)
     	{
-    		Wrench.holdingWrench = 1;
             this.transform.position = theDest.position;
     		this.transform.parent = GameObject.Find("PickUp").transform;
     		GetComponent<BoxCollider>().enabled = false;
@@ -36,7 +35,6 @@ public class PickUp : MonoBehaviour
     	{
     	if(isHolding == 1 && HoldTimer > 2)
     	{
-    		Wrench.holdingWrench = 0;
             this.transform.parent = null;
     		GetComponent<Rigidbody>().useGravity = true;
     		GetComponent<BoxCollider>().enabled = true;
