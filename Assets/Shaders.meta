@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Shaders.meta
 guid: 3ca01d835d31ff947b6326c37fb26ba9
+=======
+guid: c2837b089bc5c2b468f86f1d02166d84
+>>>>>>> parent of a04847b... Crouch (and some other stuff):Assets/Sprites.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
