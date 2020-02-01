@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: c2837b089bc5c2b468f86f1d02166d84
+=======
+<<<<<<< HEAD:Assets/Shaders.meta
+guid: 3ca01d835d31ff947b6326c37fb26ba9
+=======
+guid: c2837b089bc5c2b468f86f1d02166d84
+>>>>>>> parent of a04847b... Crouch (and some other stuff):Assets/Sprites.meta
+>>>>>>> parent of a04847b... Crouch (and some other stuff)
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+=======
+<<<<<<< HEAD:Assets/Models/LittleHouse.mat.meta
+guid: c3dfbd9b1c00b80468d44e7994954164
+=======
+<<<<<<< HEAD:Assets/Shaders/Dissolve.mat.meta
+guid: 35db4a9447ca1844992fa05eb22fd93d
+>>>>>>> parent of a04847b... Crouch (and some other stuff)
+NativeFormatImporter:
+=======
+guid: c2837b089bc5c2b468f86f1d02166d84
+folderAsset: yes
+DefaultImporter:
+>>>>>>> parent of a04847b... Crouch (and some other stuff):Assets/Sprites.meta
+  externalObjects: {}
+  mainObjectFileID: 2100000
+<<<<<<< HEAD
+>>>>>>> parent of a04847b... Crouch (and some other stuff)
+=======
+>>>>>>> parent of a04847b... Crouch (and some other stuff)
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     Vector3 velocity;
     bool isGrounded;
 
-
+    // Update is called once per frame
     void Update()
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
@@ -27,6 +27,8 @@ public class PlayerMovement : MonoBehaviour
         	velocity.y = -2f;
 
         }
+
+        Shader.SetGlobalVector("_PlayerPos", transform.position);
 
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
@@ -57,16 +59,6 @@ public class PlayerMovement : MonoBehaviour
         if(Stamina.timeOut == 1)
         {
             speed = 11f;
-        }
-
-        if(Input.GetKey(KeyCode.LeftControl))
-        {
-            controller.height = 1.8f;
-            speed = 14f;
-        }
-        else
-        {
-            controller.height = 3.8f;
         }
     }
 }

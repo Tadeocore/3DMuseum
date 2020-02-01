@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.meta
+Assets/Models/LittleHouse.mat.meta
+Assets/Objects/Key.meta
+Assets/Sprites.meta
