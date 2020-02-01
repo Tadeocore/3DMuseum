@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: c2837b089bc5c2b468f86f1d02166d84
 =======
 <<<<<<< HEAD:Assets/Shaders.meta
@@ -11,6 +12,18 @@ guid: c2837b089bc5c2b468f86f1d02166d84
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
+=======
+<<<<<<< HEAD:Assets/Models/LittleHouse.mat.meta
+guid: c3dfbd9b1c00b80468d44e7994954164
+NativeFormatImporter:
+=======
+guid: c2837b089bc5c2b468f86f1d02166d84
+folderAsset: yes
+DefaultImporter:
+>>>>>>> parent of a04847b... Crouch (and some other stuff):Assets/Sprites.meta
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>> parent of a04847b... Crouch (and some other stuff)
   userData: 
   assetBundleName: 
   assetBundleVariant: 
