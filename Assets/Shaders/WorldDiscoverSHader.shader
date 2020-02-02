@@ -43,6 +43,7 @@
 			float dist = distance(_PlayerPos, IN.worldPos);
  
 			clip(dissolve_value - dist/ _Radius);
+			o.Emission=fixed3(1,1,1) * step( dissolve_value - _Radius, 0.01f);
  
 			fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
 			o.Albedo = c.rgb;
